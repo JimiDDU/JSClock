@@ -1,3 +1,3 @@
 # JSClock
 
-not worken on responsivness
+not worked on responsiveness
